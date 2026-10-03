@@ -20,7 +20,7 @@ tests/               # test_api.py, test_cli.py, test_external.py
 ## Installation
 
 ```bash
-git clone <your-repo-url> && cd inventory-management
+git clone https://github.com/bkibet-dev/inventory_management && cd inventory-management
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
